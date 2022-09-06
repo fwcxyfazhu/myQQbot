@@ -1,0 +1,63 @@
+[2022-09-06 13:50:00] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 13:50:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 13:54:20] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 13:54:31] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:01:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:02:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:02:58] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:03:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:03:47] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 123.151.66.83:8080: i/o timeout 
+[2022-09-06 14:03:56] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:04:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:04:26] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:04:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:05:07] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:05:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:19:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:20:34] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:44:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:44:19] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 58.60.10.100:8080: i/o timeout 
+[2022-09-06 14:45:56] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2022-09-06 14:45:56] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2022-09-06 14:47:06] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:47:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:47:35] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:47:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:48:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:48:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:51:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:51:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:51:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:52:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:52:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:52:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:54:25] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 14:54:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:55:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:55:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:57:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:57:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 14:58:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 14:58:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:02:54] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:02:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:03:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:03:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:05:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:07:28] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:08:10] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2022-09-06 15:08:39] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:08:46] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 123.151.66.83:8080: i/o timeout 
+[2022-09-06 15:09:29] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:10:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:10:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:11:31] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:11:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:16:40] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:18:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:20:38] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:21:18] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:21:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:23:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-09-06 15:23:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:23773/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:23773: connect: connection refused 
+[2022-09-06 15:32:36] [WARNING]: Protocol -> device lock is disable. http api may fail. 
